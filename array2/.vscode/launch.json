@@ -1,0 +1,91 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "checkShudu",
+            "request": "launch",
+            "mainClass": "checkShudu",
+            "projectName": "array2_e057c39a"
+        },
+        {
+            "type": "java",
+            "name": "sumsiteElement",
+            "request": "launch",
+            "mainClass": "sumsiteElement",
+            "projectName": "array2_e057c39a"
+        },
+        {
+            "type": "java",
+            "name": "snakeMatrix",
+            "request": "launch",
+            "mainClass": "snakeMatrix",
+            "projectName": "array2_e057c39a"
+        },
+        {
+            "type": "java",
+            "name": "culculatePoint",
+            "request": "launch",
+            "mainClass": "culculatePoint",
+            "projectName": "array2_e057c39a"
+        },
+        {
+            "type": "java",
+            "name": "checkIsnature",
+            "request": "launch",
+            "mainClass": "checkIsnature",
+            "projectName": "array2_e057c39a"
+        },
+        {
+            "type": "java",
+            "name": "checkIsupMartix",
+            "request": "launch",
+            "mainClass": "checkIsupMartix",
+            "projectName": "array2_e057c39a"
+        },
+        {
+            "type": "java",
+            "name": "sumOb",
+            "request": "launch",
+            "mainClass": "sumOb",
+            "projectName": "array2_e057c39a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "changeln",
+            "request": "launch",
+            "mainClass": "changeln",
+            "projectName": "array2_e057c39a"
+        },
+        {
+            "type": "java",
+            "name": "pascalTriangle",
+            "request": "launch",
+            "mainClass": "pascalTriangle",
+            "projectName": "array2_e057c39a"
+        },
+        {
+            "type": "java",
+            "name": "sumMatrix",
+            "request": "launch",
+            "mainClass": "sumMatrix",
+            "projectName": "array2_e057c39a"
+        },
+        {
+            "type": "java",
+            "name": "transposeMatrix",
+            "request": "launch",
+            "mainClass": "transposeMatrix",
+            "projectName": "array2_e057c39a"
+        }
+    ]
+}
